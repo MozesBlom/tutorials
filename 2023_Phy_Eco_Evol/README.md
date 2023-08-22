@@ -18,5 +18,6 @@ For this computer practical, we will use Python modules but a minimal understand
 [Jupyter Notebooks](https://jupyter-notebook.readthedocs.io/en/latest/) are notebooks for computational projects, which can include snippets of code, annotation/comments and the output of code. It is an excellent way to keep track of the code that you built, the rationale behind it and is an excellent format to share code/ideas with colleagues (or your future self!).
 
 A Jupyter notebook can contain several different sections.
-<img src="img/notebook.png" width="200" height="200">
+
+<img src="img/notebook.png">
 
