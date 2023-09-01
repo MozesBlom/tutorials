@@ -4,7 +4,6 @@ ___
 ## Requirements
 * [Jupyter Lab](https://jupyterlab.readthedocs.io/en/stable/user/interface.html) and/or [Google Colab](https://colab.google/)
 * Python 3+
-    * Numpy 1.10+
     * [msprime](https://msprime.readthedocs.io/en/stable/)
 
 ___
@@ -45,5 +44,5 @@ Here you can create a new notebook, continue a previous notebook which you store
 
 <img src="img/colab_landing_page.png">
 
-Copy paste the link of the present github webpage, select the only notebook present (**XXX**) and it should automatically kickstart the tutorial notebook!
+Copy paste the link of the present github webpage, select the only notebook present (**2023_coalescent_variation.ipynb**) and it should automatically kickstart the tutorial notebook!
 
