@@ -30,9 +30,9 @@ The major benefit of Google Colab is that nothing needs to be installed on your 
 
 <img src="img/colab_landing_page.png">
 
-Here you can create a new notebook, continue a previous notebook which you stored locally or on Google Drive, etc. Here we benefit from the Github integration and directly point Colab to the present Github page with the tutorial:
+Here you can create a new notebook, continue a previous notebook which you stored locally or on Google Drive, etc. Here we benefit from the Github integration and directly point Colab to the present Github page:
 
-<img src="img/colab_landing_page.png">
+<img src="img/colab_github.png">
 
-Copy paste the link of the present github webpage, select the only notebook present (**coalescent_variation.ipynb**) and it should automatically kickstart the tutorial notebook!
+Select the notebook of the tutorial that you'd like to work on and it should automatically kickstart the notebook!
 
