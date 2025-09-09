@@ -2,6 +2,10 @@
 
 * [Computer practical Phylogenetics Course University of Potsdam 2025](https://github.com/MozesBlom/tutorials/tree/main/2025_PU_Phylo_Eco_Evol/)<br>
 Tutorials that have been developed for the [Phylogenetics in Evolution and Ecology course](https://amniota.org/phylogenetics/) jointly taught by [Dr. Mozes Blom](https://mozesblom.com) & [Dr Faysal Bibi](https://amniota.org/) at the Museum für Naturkunde Berlin.
+- [Inferring a Maximum-Likelihood phylogeny with IQtree3](https://github.com/MozesBlom/tutorials/tree/main/2025_PU_Phylo_Eco_Evol/ML)
+- [Exploring coalescent variation across a genome with msprime](https://github.com/MozesBlom/tutorials/tree/main/2025_PU_Phylo_Eco_Evol/ILS)
+- [Gene Tree - Species Tree inference and concordance factor annotation](https://github.com/MozesBlom/tutorials/tree/main/2025_PU_Phylo_Eco_Evol/GTST)
+- [Exercise: Using Genbank to identify the phylogenetic placement of two crocodile mitogenomes](https://github.com/MozesBlom/tutorials/tree/main/2025_PU_Phylo_Eco_Evol/Crocs)
 
 ## Introduction to Jupyter Notebooks.
 [Jupyter Notebooks](https://jupyter-notebook.readthedocs.io/en/latest/) are notebooks for computational projects, which can include snippets of code, annotation/comments and the output of code. It is an excellent way to keep track of the code that you built, the rationale behind it and is an excellent format to share code/ideas with colleagues (or your future self!).
