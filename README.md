@@ -8,6 +8,8 @@ Tutorials that have been developed for the [Phylogenetics in Evolution and Ecolo
     - [Exercise: Using Genbank to identify the phylogenetic placement of two crocodile mitogenomes](https://github.com/MozesBlom/tutorials/tree/main/2025_PU_Phylo_Eco_Evol/Crocs)
 
 ## Introduction to Jupyter Notebooks.
+Much of the tutorials in this repository have been written up in Jupyter Notebook format and have been created with Google colab compatibility in mind. The following is a brief description on Jupyter Notebooks, Google Colab and how to optimally utilise these resources.
+
 [Jupyter Notebooks](https://jupyter-notebook.readthedocs.io/en/latest/) are notebooks for computational projects, which can include snippets of code, annotation/comments and the output of code. It is an excellent way to keep track of the code that you built, the rationale behind it and is an excellent format to share code/ideas with colleagues (or your future self!).
 
 A Jupyter notebook can contain several different sections.
